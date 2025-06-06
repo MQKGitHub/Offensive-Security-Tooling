@@ -10,7 +10,7 @@ This module teaches how to use Hydra for password attacks, Gobuster for director
 
 | Topic Name            | Status         | Link                                                              |
 |------------------------|----------------|-------------------------------------------------------------------|
-| Hydra                 | ✅ Completed   | [View Write-Up]()                  |
+| Hydra                 | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Hydra/)               |
 | Gobuster: The Basics  | 🟡 In Progress | [View Write-Up]()    |
 | Shells Overview       | ❌ Not Started | [View Write-Up]()        |
 | SQLMap: The Basics    | ❌ Not Started | [View Write-Up]()      |
@@ -20,8 +20,9 @@ This module teaches how to use Hydra for password attacks, Gobuster for director
 ### 🧠 Overview
 
 ### 🔓 Hydra  
-- coming soon...
-- coming soon...
+- Learned how to use Hydra to brute-force login credentials on services like SSH and HTTP POST forms by automating login attempts with wordlists.  
+- Practised identifying valid login responses and tuning Hydra options for performance and detection of failed logins.
+
 
 ### 🧭 Gobuster: The Basics  
 - coming soon...
