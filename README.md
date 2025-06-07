@@ -13,7 +13,7 @@ This module teaches how to use Hydra for password attacks, Gobuster for director
 | Hydra                 | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Hydra/)               |
 | Gobuster: The Basics  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Gobuster-The-Basics/) |
 | Shells Overview       | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Shells-Overview/)     |
-| SQLMap: The Basics    | 🟡 In Progress | [View Write-Up]()      |
+| SQLMap: The Basics    | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/SQLMap-The-Basics/)   |
 
 ---
 
@@ -32,5 +32,5 @@ This module teaches how to use Hydra for password attacks, Gobuster for director
 - Practised generating and triggering shells manually using tools like Netcat, Socat, and scripting languages like Python and PHP.
 
 ### 💉 SQLMap: The Basics  
-- coming soon...
-- coming soon...
+- Learned how SQL injection works by identifying vulnerable input fields and exploiting them using automated SQLMap commands.  
+- Gained experience using different SQLi techniques (Boolean, Union, Time-based) and flags like `--dbs`, `--dump`, and `--level=5` to extract sensitive database data.  
